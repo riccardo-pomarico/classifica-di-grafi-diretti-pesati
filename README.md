@@ -1,5 +1,7 @@
 # Classifica di grafi diretti pesati
 
+Corso: Algoritmi e Principi dell'Informatica.
+
 Obiettivi del progetto:
 - Applicazione pratica delle tecniche apprese nel modulo di Algoritmi e Strutture Dati del corso di Algoritmi e Principi dell’Informatica.
 - Implementazione di una soluzione ad un problema prestando attenzione ad aspetti concreti di efficienza del codice.
